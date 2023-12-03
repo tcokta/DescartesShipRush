@@ -1,0 +1,6 @@
+@Descartes_ShipRush_test_HostAddress = http://localhost:5088
+
+GET {{Descartes_ShipRush_test_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
